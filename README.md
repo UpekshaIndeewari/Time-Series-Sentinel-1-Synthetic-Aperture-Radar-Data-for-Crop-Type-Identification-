@@ -1,4 +1,4 @@
-# Crop Type Identification from Time Series Sentinel-1 Synthetic Aperture Radar Data
+# Time Series Sentinel-1 Data for Crop Type Identification-
 
 ## 1. Project Overview
 
