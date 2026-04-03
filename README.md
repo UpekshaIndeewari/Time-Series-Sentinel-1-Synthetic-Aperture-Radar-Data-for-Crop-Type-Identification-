@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This report presents the complete design, implementation, and scientific rationale of a multi
+This project presents the complete design, implementation, and scientific rationale of a multi
 temporal Sentinel-1 Synthetic Aperture Radar (SAR) time-series monitoring pipeline developed 
 using the Google Earth Engine (GEE) cloud computing platform for crop type detection.
 
